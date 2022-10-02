@@ -3,7 +3,7 @@
 # FILENAME: decision_tree_2
 # SPECIFICATION: compare accuracy of decision trees based on amount of data used to train them.
 # FOR: CS 4210- Assignment #2
-# TIME SPENT:
+# TIME SPENT: 1 Hour
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
